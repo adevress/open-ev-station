@@ -1,0 +1,55 @@
+<definition type="element" hotspot_y="67" height="140" hotspot_x="33" version="0.80" width="70" link_type="simple">
+    <uuid uuid="{5bd1cf83-e03c-4f7c-a081-a3db25d637a1}"/>
+    <names>
+        <name lang="es">EVSE protocol controller viridian</name>
+        <name lang="nl">EVSE protocol controller viridian</name>
+        <name lang="de">EVSE protocol controller viridian</name>
+        <name lang="it">EVSE protocol controller viridian</name>
+        <name lang="pt">EVSE protocol controller viridian</name>
+        <name lang="fr">EVSE protocol controller viridian</name>
+        <name lang="ru">EVSE protocol controller viridian</name>
+        <name lang="el">EVSE protocol controller viridian</name>
+        <name lang="en">EVSE protocol controller viridian</name>
+        <name lang="cs">EVSE protocol controller viridian</name>
+        <name lang="ar">EVSE protocol controller viridian</name>
+        <name lang="pl">EVSE protocol controller viridian</name>
+    </names>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <text text="IC" font="Sans Serif,2,-1,5,50,0,0,0,0,0" y="55" rotation="0" x="0" color="#000000"/>
+        <text text="BL" font="Sans Serif,2,-1,5,50,0,0,0,0,0" y="40" rotation="0" x="20" color="#000000"/>
+        <text text="0V" font="Sans Serif,2,-1,5,50,0,0,0,0,0" y="55" rotation="0" x="20.8594" color="#000000"/>
+        <line y1="45" length2="1.5" y2="45" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end2="none" end1="none" length1="1.5" x2="30" x1="-25"/>
+        <text text="NC" font="Sans Serif,2,-1,5,50,0,0,0,0,0" y="-50" rotation="0" x="10" color="#000000"/>
+        <text text="CP" font="Sans Serif,2,-1,5,50,0,0,0,0,0" y="55" rotation="0" x="9.96875" color="#000000"/>
+        <text text="L" font="Sans Serif,2,-1,5,50,0,0,0,0,0" y="-50" rotation="0" x="20" color="#000000"/>
+        <text text="GN" font="Sans Serif,2,-1,5,50,0,0,0,0,0" y="40" rotation="0" x="10" color="#000000"/>
+        <dynamic_text font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-84" text_from="ElementInfo" Halignment="AlignLeft" uuid="{df5c6305-01e3-4860-8d7c-aaf5f4c317c2}" rotation="0" x="-3" text_width="-1" z="1" Valignment="AlignTop" frame="false">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <text text="NC" font="Sans Serif,2,-1,5,50,0,0,0,0,0" y="-35" rotation="0" x="25" color="#000000"/>
+        <text text="RD" font="Sans Serif,2,-1,5,50,0,0,0,0,0" y="40" rotation="0" x="0" color="#000000"/>
+        <text text="P2" font="Sans Serif,2,-1,5,50,0,0,0,0,0" y="-35" rotation="0" x="5" color="#000000"/>
+        <text text="N" font="Sans Serif,2,-1,5,50,0,0,0,0,0" y="-50" rotation="0" x="0" color="#000000"/>
+        <text text="P1" font="Sans Serif,2,-1,5,50,0,0,0,0,0" y="-35" rotation="0" x="15" color="#000000"/>
+        <rect rx="0" y="-55" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x="-27" height="115" ry="0" width="57"/>
+        <rect rx="0" y="-16" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" x="-13" height="2" ry="0" width="0"/>
+        <line y1="-40" length2="1.5" y2="-40" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" end2="none" end1="none" length1="1.5" x2="30" x1="-25"/>
+        <text text="EVSE Controller&#xa;Tethered VIRIDIAN" font="Sans Serif,4,-1,5,50,0,0,0,0,0" y="0" rotation="0" x="-20" color="#000000"/>
+        <terminal y="-60" uuid="{761ec7db-50e7-4c06-9ec6-93cccaaaf2db}" name="" x="10" orientation="n"/>
+        <terminal y="65" uuid="{87f6cabe-e721-4b93-aa35-4cdec232b2bf}" name="" x="15" orientation="s"/>
+        <terminal y="-60" uuid="{e9b2f235-fe7e-4ca7-a30b-7e4779b79cae}" name="" x="0" orientation="n"/>
+        <terminal y="65" uuid="{182d7154-2106-44b8-9d45-f5bd5c27e7b4}" name="" x="5" orientation="s"/>
+        <terminal y="50" uuid="{0bda49fc-069a-49ec-ae91-f5688af642b9}" name="" x="20" orientation="s"/>
+        <terminal y="50" uuid="{a0bf8d2e-18a4-4dbf-8071-0dbdc0f851dc}" name="" x="10" orientation="s"/>
+        <terminal y="-45" uuid="{cb41c771-4b35-420e-816c-ab7db171b1b1}" name="" x="25" orientation="n"/>
+        <terminal y="-45" uuid="{8bc537ff-d3d3-4173-88b6-3039b1e089c5}" name="" x="15" orientation="n"/>
+        <terminal y="50" uuid="{d9087f0f-2163-453d-814a-3a5dfe8b46d1}" name="" x="0" orientation="s"/>
+        <terminal y="-45" uuid="{d6441d7d-b5d7-4ef8-b7e8-1f315a489774}" name="" x="5" orientation="n"/>
+        <terminal y="-60" uuid="{2eb73d3e-9584-43c5-a84e-90e2ef2c500e}" name="" x="20" orientation="n"/>
+        <terminal y="65" uuid="{f1d44347-59f0-4257-924b-675a64ca32a5}" name="" x="25" orientation="s"/>
+    </description>
+</definition>

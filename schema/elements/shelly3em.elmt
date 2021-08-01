@@ -1,0 +1,48 @@
+<definition width="50" hotspot_x="23" hotspot_y="27" link_type="simple" type="element" height="60" version="0.80">
+    <uuid uuid="{bdaa5036-1be4-44b2-839b-dba898b117bb}"/>
+    <names>
+        <name lang="pl">Shelly 3EM</name>
+        <name lang="de">Shelly 3EM</name>
+        <name lang="ar">Shelly 3EM</name>
+        <name lang="fr">Shelly 3EM</name>
+        <name lang="ru">Shelly 3EM</name>
+        <name lang="es">Shelly 3EM</name>
+        <name lang="it">Shelly 3EM</name>
+        <name lang="el">Shelly 3EM</name>
+        <name lang="nl">Shelly 3EM</name>
+        <name lang="cs">Shelly 3EM</name>
+        <name lang="en">Shelly 3EM</name>
+        <name lang="pt">Shelly 3EM</name>
+    </names>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <text rotation="0" text="I" color="#000000" y="9" font="Sans Serif,2,-1,5,50,0,0,0,0,0" x="-8"/>
+        <text rotation="0" text="N" color="#000000" y="-11" font="Sans Serif,2,-1,5,50,0,0,0,0,0" x="12"/>
+        <text rotation="0" text="A" color="#000000" y="18" font="Sans Serif,2,-1,5,50,0,0,0,0,0" x="-8"/>
+        <text rotation="0" text="VB" color="#000000" y="-11" font="Sans Serif,2,-1,5,50,0,0,0,0,0" x="-2"/>
+        <text rotation="0" text="C" color="#000000" y="18" font="Sans Serif,2,-1,5,50,0,0,0,0,0" x="5"/>
+        <dynamic_text z="1" rotation="0" text_width="-1" frame="false" Valignment="AlignTop" Halignment="AlignLeft" y="-33" font="Sans Serif,9,-1,5,50,0,0,0,0,0" text_from="ElementInfo" x="2" uuid="{df5c6305-01e3-4860-8d7c-aaf5f4c317c2}">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <text rotation="0" text="B" color="#000000" y="18" font="Sans Serif,2,-1,5,50,0,0,0,0,0" x="-1"/>
+        <text rotation="0" text="VC" color="#000000" y="-11" font="Sans Serif,2,-1,5,50,0,0,0,0,0" x="4"/>
+        <text rotation="0" text="O" color="#000000" y="13" font="Sans Serif,2,-1,5,50,0,0,0,0,0" x="-9"/>
+        <text rotation="0" text="VA" color="#000000" y="-11" font="Sans Serif,2,-1,5,50,0,0,0,0,0" x="-9"/>
+        <text rotation="0" text="N" color="#000000" y="18" font="Sans Serif,2,-1,5,50,0,0,0,0,0" x="11"/>
+        <polygon y7="-15" y5="-15" y3="20" x4="-10" y2="-15" closed="false" x5="-11" x6="-11" x2="20" y1="-15" antialias="false" x7="-9" x3="20" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-10" y4="20" y6="-15"/>
+        <text rotation="0" text="Shelly 3EM" color="#000000" y="8" font="Sans Serif,2,-1,5,50,0,0,0,0,0" x="-2"/>
+        <terminal orientation="n" name="" y="-20" x="6" uuid="{e9b2f235-fe7e-4ca7-a30b-7e4779b79cae}"/>
+        <terminal orientation="s" name="" y="25" x="6" uuid="{182d7154-2106-44b8-9d45-f5bd5c27e7b4}"/>
+        <terminal orientation="s" name="" y="25" x="12" uuid="{0bda49fc-069a-49ec-ae91-f5688af642b9}"/>
+        <terminal orientation="s" name="" y="25" x="0" uuid="{a0bf8d2e-18a4-4dbf-8071-0dbdc0f851dc}"/>
+        <terminal orientation="w" name="" y="12" x="-15" uuid="{446dc258-2a4c-487d-b8ce-97305c4a728e}"/>
+        <terminal orientation="w" name="" y="8" x="-15" uuid="{b08dc3cf-d6af-4f01-b354-129ab0424244}"/>
+        <terminal orientation="n" name="" y="-20" x="0" uuid="{cb41c771-4b35-420e-816c-ab7db171b1b1}"/>
+        <terminal orientation="n" name="" y="-20" x="13" uuid="{8bc537ff-d3d3-4173-88b6-3039b1e089c5}"/>
+        <terminal orientation="s" name="" y="25" x="-6" uuid="{d9087f0f-2163-453d-814a-3a5dfe8b46d1}"/>
+        <terminal orientation="n" name="" y="-20" x="-6" uuid="{d6441d7d-b5d7-4ef8-b7e8-1f315a489774}"/>
+    </description>
+</definition>

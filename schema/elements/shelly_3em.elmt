@@ -1,0 +1,16 @@
+<definition width="60" hotspot_x="21" hotspot_y="42" link_type="simple" type="element" height="90" version="0.80">
+    <uuid uuid="{5e29b3c7-1f40-43d8-88d4-e1d3cd84dad4}"/>
+    <names>
+        <name lang="fr">shelly 3EM probe</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <line length1="1.5" end2="none" y2="30" end1="none" length2="1.5" x2="0" y1="-30" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="0"/>
+        <ellipse width="40" antialias="false" y="-5" height="10" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-15"/>
+        <terminal orientation="n" name="" y="35" x="0" uuid="{02f55805-6441-4694-869c-f334ac20cf16}"/>
+        <terminal orientation="e" name="" y="0" x="30" uuid="{d60b6fbd-b32e-4ce5-9479-97b40d4389d3}"/>
+        <terminal orientation="s" name="" y="35" x="0" uuid="{d585f560-221e-46e3-b540-fc4f101b9a01}"/>
+        <terminal orientation="n" name="" y="-35" x="0" uuid="{6d287ca7-e16e-4472-b399-4d542912a700}"/>
+    </description>
+</definition>
