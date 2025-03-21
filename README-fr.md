@@ -28,6 +28,7 @@ L'installation devrait être compatible avec tout véhicule electrique ou hybrid
 Cette borne a été testée (Prise T2) avec les véhicules suivants
 - Tesla Model 3 (BEV)
 - Mercedes A250 e (PHEV)
+- Hyundai Ioniq 5 (BEV)
 
 
 ## Schema
